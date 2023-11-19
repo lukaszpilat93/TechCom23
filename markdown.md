@@ -7,4 +7,4 @@ Zdanie testowe1TESTTESTTEST
 Kolejny  
  test
 
- KOLEJ
+ KOLEJKA
