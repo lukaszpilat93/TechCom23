@@ -28,6 +28,37 @@ Kolejny
 
 ![Most](mostek.jpg)
 
+## Lista
+
+1. Tak
+2. Nie
+3. Nie wiem.
+
+- tak
+- nie
+- nie wiem
+
+|Heading text|Definiton text|
+|-------|-------------------|
+| item | Definiton of an item|
+Item 1 | Definition of an item 1|
+
+- [WYRÓŻNIANIE](#wyróżnianie)
+- [Obrazki](#obrazki)
+- [Lista](#lista)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
