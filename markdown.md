@@ -8,3 +8,35 @@ Kolejny
  test
 
  KOLEJKA
+ ## WYRÓŻNIANIE
+ Zdanie *testowe*1TESTTESTTEST 
+ < FFFF  
+
+ TEST `x+y=z`  
+
+ ```
+ <code>
+ ```
+
+ [informacje](https://www.onet.pl/)
+
+ (https://www.onet.pl/)
+
+
+## Obrazki  
+
+
+![Most](mostek.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+ 
