@@ -14,6 +14,8 @@ Kolejny
 
  TEST `x+y=z`  
 
+ ![alt text][zamekwpiasku.jpg]
+
  ```
  <code>
  ```
@@ -60,9 +62,6 @@ Nie | Nie zgadzam się z wypowiedzią|
 	Próba
 : to test czegoś, czego nie jesteśmy pewni.
 
-- [WYRÓŻNIANIE](#wyróżnianie)
-- [Obrazki](#obrazki)
-- [Lista](#lista)
 
 
 
