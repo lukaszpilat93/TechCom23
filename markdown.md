@@ -7,28 +7,19 @@ Zdanie testowe1TESTTESTTEST
 Kolejny  
  test
 
- KOLEJKA
  ## WYRÓŻNIANIE
  Zdanie *testowe*1TESTTESTTEST 
  < FFFF  
 
  TEST `x+y=z`  
-
  ```
  <code>
  ```
-
  [informacje](https://www.onet.pl/)
 
  (https://www.onet.pl/)
-
-
 ## Obrazki  
-
-
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
-
 ## Lista
 
 1. Tak
