@@ -26,7 +26,7 @@ Kolejny
 ## Obrazki  
 
 
-![My Image](GitHub/zamekwpiasku.jpg)
+zamekwpiasku.jpg
 
 
 ## Lista
