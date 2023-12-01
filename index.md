@@ -7,7 +7,7 @@
 
  TEST `x+y=z`  
 
- ![alt text][zamekwpiasku.jpg]
+ ![zamekwpiasku.jpg]
 
  ```
  <code>
