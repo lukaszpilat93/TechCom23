@@ -20,7 +20,8 @@ Kolejny
  (https://www.onet.pl/)
 ## Obrazki  
 
-![title](TechKom23/zamekwpiasku.png)
+![Uploading image.png…]()
+
 
 ## Lista
 
