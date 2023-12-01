@@ -13,7 +13,7 @@
  (https://www.onet.pl/)
 ## Obrazki  
 
-![zamekwpiasku.jpg…]
+![zamekwpiasku.jpg]
 
 
 
