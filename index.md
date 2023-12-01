@@ -62,9 +62,9 @@ Nie | Nie zgadzam się z wypowiedzią|
 	Próba
 : to test czegoś, czego nie jesteśmy pewni.
 
-- [RÓŻNE PRÓBY SKŁADNIOWE](#RÓŻNE PRÓBY SKŁADNIOWE)
-- [Obrazki  i tabelki](#Obrazki  i tabelki)
-- [Pora na ankietę](#Pora na ankietę)
+- [RÓŻNE PRÓBY SKŁADNIOWE](## RÓŻNE PRÓBY SKŁADNIOWE)
+- [Obrazki  i tabelki](## Obrazki  i tabelki)
+- [Pora na ankietę](## Pora na ankietę)
 
 
 
