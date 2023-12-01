@@ -7,8 +7,11 @@
 
  TEST `x+y=z`  
 
+<<<<<<< Updated upstream
  ![zamekwpiasku.jpg]
 
+=======
+>>>>>>> Stashed changes
  ```
  <code>
  ```
@@ -26,9 +29,9 @@
 
  *Albo i takie...*
 
+"C:\Users\lukas\OneDrive\Dokumenty\GitHub\TechCom23\zamekwpiasku.jpg"
 
 
-/GitHub/zamekwpiasku.jpg 
 
 
 ### Pora na ankietę
@@ -55,6 +58,9 @@ Nie | Nie zgadzam się z wypowiedzią|
 	Próba
 : to test czegoś, czego nie jesteśmy pewni.
 
+- [WYRÓŻNIANIE](#wyróżnianie)
+- [Obrazki](#obrazki)
+- [Lista](#lista)
 
 
 
