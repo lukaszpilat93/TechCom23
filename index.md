@@ -1,6 +1,6 @@
 #_tytuł
 
-zdanie testowe
+To jest pik testowy
 ##_tytuł2
 ###_tytuł3
 Zdanie testowe1TESTTESTTEST  
@@ -8,7 +8,7 @@ Kolejny
  test
 
  KOLEJKA
- ## WYRÓŻNIANIE
+ ## RÓŻNE PRÓBY SKŁADNIOWE
  Zdanie *testowe*1TESTTESTTEST 
  < FFFF  
 
@@ -18,17 +18,29 @@ Kolejny
  <code>
  ```
 
- [informacje](https://www.onet.pl/)
+ [informacje...BY WIEDZIEĆ WIĘCEJ](https://www.onet.pl/)
 
  (https://www.onet.pl/)
 
 
-## Obrazki  
+## Obrazki  i tabelki
+
+😁Zaczynamy różne próby, w tym wizualne!
+
+ > Takie jak te.
+
+ *Albo i takie...*
 
 
-![Most](mostek.jpg)
 
-## Lista
+/GitHub/zamekwpiasku.jpg 
+
+
+### Pora na ankietę
+
+~~A tak oznaczamy, jeśli czegoś nie chcemy.~~
+
+Możemy wykonać listę na dwa sposoby:
 
 1. Tak
 2. Nie
@@ -36,12 +48,17 @@ Kolejny
 
 - tak
 - nie
+
 - nie wiem
 
-|Heading text|Definiton text|
+
+|Odpowiedź |Znaczenie|
 |-------|-------------------|
-| item | Definiton of an item|
-Item 1 | Definition of an item 1|
+| Tak | Zgadzam się z wypowiedzią|
+Nie | Nie zgadzam się z wypowiedzią|
+
+	Próba
+: to test czegoś, czego nie jesteśmy pewni.
 
 - [WYRÓŻNIANIE](#wyróżnianie)
 - [Obrazki](#obrazki)
