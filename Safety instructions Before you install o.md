@@ -30,23 +30,23 @@ The qualified personnel installs the proper outlet.
 The packaging can cause injury to children if the children play with it.  
 Destroy or recycle the carton, plastic bags and any exterior wrapping immediately after unpacking the Refill Station. 
 <!-- Please edit the rest of document in a similar manner. -->
-Children above 8 years old can use this device.
+11. Children above 8 years old can use this device.
 Persons with bad physical, sensory or mental skills or no experience and knowledge can use this device too.
 These people must be controlled or get information about the safe use of the device and understand the dangers. 
-Children without control cannot clean or maintain the device.
+12. Children without control cannot clean or maintain the device.
 Children must not play with the device. 
 Children must not abuse, sit, stand or play on or around the Refill Station. 
-A wall-mounting bracket kit reduces the danger of falling over.
-Do not put any objects on top of or directly against the device.
+13. A wall-mounting bracket kit reduces the danger of falling over.
+14. Do not put any objects on top of or directly against the device.
 Do not sit on, stand, climb onto or hang from the device.
-Do not put the Refill Station under water. 
+15. Do not put the Refill Station under water. 
 Do not cover the air inlets.
-Only qualified technicians, distributors or Bluewater service personnel should install, maintain and repair the Refill Station. 
+16. Only qualified technicians, distributors or Bluewater service personnel should install, maintain and repair the Refill Station. 
 Incorrect works can cause incorrect function and injury and damage out of warranty. 
-Do not try to disconnect the external water plumbing or do not do work with it.
+17. Do not try to disconnect the external water plumbing or do not do work with it.
 Ask your Bluewater dealer for help if you must disconnect water tubes. 
-When you install the Refill Station make sure that hoses, tubing, and electrical cables can move freely. 
-Use only original replacement parts from Bluewater. 
+18. When you install the Refill Station make sure that hoses, tubing, and electrical cables can move freely. 
+19. Use only original replacement parts from Bluewater. 
 Your Bluewater dealer informs you about spare parts and where you can buy spare parts.
 
 © Bluewater Group 2023.
